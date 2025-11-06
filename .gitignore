@@ -13,6 +13,9 @@ slprj/
 leveling_results.mat
 leveling_system_visualization.png
 shim_adjustments.csv
+advanced_leveling_results.mat
+advanced_leveling_visualization.png
+adjustment_instructions.csv
 
 # OS files
 .DS_Store
