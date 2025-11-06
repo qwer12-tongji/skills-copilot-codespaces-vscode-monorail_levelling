@@ -1,0 +1,25 @@
+# MATLAB files
+*.asv
+*.mex*
+*.mat
+*.slxc
+slprj/
+*.autosave
+
+# Generated output files
+*.png
+*.jpg
+*.csv
+leveling_results.mat
+leveling_system_visualization.png
+shim_adjustments.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Temporary files
+tmp/
+temp/
